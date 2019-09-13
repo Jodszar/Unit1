@@ -18,10 +18,6 @@ public class Painting {
         System.out.println("you will need " +divide+" gallons of paint");
 
 
-
-
-
-
     }
 
 }
